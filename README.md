@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @forest-rev
-- 👀 I’m interested in forest revitalization - forest conservation, sustainable forest use, and forest restoration
+- 👀 I’m interested in forest revitalization. This includes forest conservation, sustainable forest use, and forest restoration
 - 🌱 I’m currently learning software development for data science
 - 💞️ I’m looking to collaborate on ecological connectivity modeling
 - 📫 How to reach me Patrick.Jantz@nau.edu
